@@ -6,7 +6,7 @@ Software Engineering Manager
 
 * 🌍  I'm based in Mexico City
 * 🧠  I’m deepening my expertise in building web applications using React and the Django Web Framework by implementing real-world projects and refining best practices.
-
+* 🗓️  Let's see you there! @[Google I/O 2025](https://developers.google.com/profile/badges/events/io/2025/registered)
 <!--
 ### Skills
 
