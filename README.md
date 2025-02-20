@@ -5,7 +5,7 @@ Software Engineering Manager
 ----------------------------
 
 * 🌍  I'm based in Mexico City
-* 🧠  I'm improving my knowledge implementing Web Applications with React and Django Web Framework.
+* 🧠  I’m deepening my expertise in building web applications using React and the Django Web Framework by implementing real-world projects and refining best practices.
 
 <!--
 ### Skills
