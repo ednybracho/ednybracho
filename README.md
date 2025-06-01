@@ -7,7 +7,6 @@ Software Engineering Manager
 * 🌍  I'm based in Mexico City
 * 🧠  I’m deepening my expertise in Prompt Engineering and Model Context Protocol.
 * Building web applications using React and the Django Web Framework by implementing real-world projects and refining best practices.
-* 
 <!--
 ### Skills
 
